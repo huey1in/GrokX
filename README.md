@@ -4,7 +4,6 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/huey1in/GrokX)](https://github.com/huey1in/GrokX/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/huey1in/GrokX)](https://github.com/huey1in/GrokX/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/huey1in/GrokX)](https://github.com/huey1in/GrokX)
 [![release](https://img.shields.io/badge/version-1.0.0-blue)]()
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![curl_cffi](https://img.shields.io/badge/curl_cffi-%3E%3D0.7-4B8BBE)]()
