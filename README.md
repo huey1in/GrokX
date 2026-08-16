@@ -9,7 +9,6 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![curl_cffi](https://img.shields.io/badge/curl_cffi-%3E%3D0.7-4B8BBE)]()
 [![Node](https://img.shields.io/badge/Node.js-22.13%2B-339933?logo=node.js&logoColor=white)]()
-[![Browser-free](https://img.shields.io/badge/browser-free-no%20Selenium%2FPlaywright-brightgreen)]()
 
 ## 简介
 
