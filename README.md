@@ -1,4 +1,4 @@
-# GrokX · grok-reg-protocol
+# GrokX
 
 基于 HTTP + gRPC-Web 纯协议实现的 x.ai / Grok 账号注册工具。
 
