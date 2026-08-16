@@ -1,0 +1,9 @@
+{
+  "name": "grok-castle-token-provider",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@castleio/castle-js": "2.8.5",
+    "jsdom": "30.0.1"
+  }
+}
