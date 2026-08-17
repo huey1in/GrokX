@@ -8,6 +8,8 @@
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![curl_cffi](https://img.shields.io/badge/curl_cffi-%3E%3D0.7-4B8BBE)]()
 [![Node](https://img.shields.io/badge/Node.js-22.13%2B-339933?logo=node.js&logoColor=white)]()
+<a href="https://linux.do"><img src="https://img.shields.io/badge/LINUX%20DO-社区-f0b752?style=flat-square" alt="LINUX
+   DO"></a>
 
 ## 简介
 
